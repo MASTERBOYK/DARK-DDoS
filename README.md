@@ -7,7 +7,7 @@
 > Terminal only accepts ANSI color.<br>
 > Username: *****<br>
 > Password: *****<br>
-<p align="center">  <a href="https://t.me/realzer0hub"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+<p align="center">  <a href="https://t.me/darkofmasterchannel"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
 
@@ -17,11 +17,6 @@
  ## Logs</br>
  - NEW OVH-BEAM METHODS!
  - Hi all, there are fools scam tool github for 20usd
-- Image scammer:
-https://i.ibb.co/R0NDXnc/photo-2022-05-23-03-57-37.jpg
- 
-## Screenshot
-![lk](https://i.ibb.co/LNkqyPR/bandicam-2022-04-12-22-11-34-101.jpg)
 
 # Tree
 * [Read now pls](#README)
@@ -69,7 +64,7 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/shzxrp/ZxCDDoS
+https://github.com/MASTERBOYK/DARK-DDoS.git
 cd ZxCDDoS/
 npm i requests
 npm i https-proxy-agent
