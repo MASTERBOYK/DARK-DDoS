@@ -31,7 +31,7 @@ def fetching_animation():
         "\033[95m[■■■■■■■■■■] 100%\033[0m"
     ]
     for frame in frames:
-        sys.stdout.write("\r" + "\033[92m[FETCHING] \033[0m" + frame)
+        sys.stdout.write("\r" + "\033[92m[SYSTEM RUNNING] \033[0m" + frame)
         sys.stdout.flush()
         time.sleep(0.15)
     print("\n")
