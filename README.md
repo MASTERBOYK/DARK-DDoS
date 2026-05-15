@@ -5,8 +5,8 @@
 </p>
 
 > Terminal only accepts ANSI color.<br>
-> Username: *****<br>
-> Password: *****<br>
+> Username: admin<br>
+> Password: admin<br>
 <p align="center">  <a href="https://t.me/darkofmasterchannel"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
@@ -65,7 +65,7 @@ How to use:
 - Using vps with high speed will be stronger
 
 https://github.com/MASTERBOYK/DARK-DDoS.git
-cd ZxCDDoS/
+cd DARK-DDoS/
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
